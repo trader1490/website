@@ -11,8 +11,8 @@
 
   .card{
 
-    height:20vw;
-    width:20vw;
+  
+
   
     margin: 0.5vw;
   }
@@ -82,3 +82,27 @@
   background-color: rgb(168, 228, 170);
   height:25vw;
 }
+
+
+#nnn {
+
+
+    overflow: hidden;
+    background-color: #050505;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+  
+  
+    
+  }
+  #nnn:hover {
+
+background-color: #84e59b;
+  }
+
+
+  .nav-link:hover {
+
+    background-color: #606762;
+      }
