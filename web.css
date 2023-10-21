@@ -36,9 +36,9 @@
     height:24vw;
   }
 
-  #footer{
+  #CONTACTUS{
     position:relative;
-    margin-top: 20vh;
+   
     background-color: rgb(168, 228, 170);
     height:5vw;
     width:100%
@@ -95,6 +95,10 @@
   
   
     
+  }
+  #nnn:hover {
+
+background-color: #84e59b;
   }
 
 
